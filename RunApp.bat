@@ -1,0 +1,1 @@
+start /min javaw -jar C:\Projects\System-Monitor-master\System-Monitor-master.jar
