@@ -26,7 +26,7 @@ import org.json.JSONObject;
 public class MainFrame {
 
     public class GlobalConfig {
-        public static String globalIP = "172.16.213.31";
+        public static String globalIP = "10.0.23.127";
     }
 
     private JLabel cpuLabel, memoryLabel, userLabel, diskLabel, ipLabel;
